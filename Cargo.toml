@@ -2,7 +2,7 @@
 name = "KobyDesk"
 version = "1.0.0"
 authors = ["KobyDesk <koby@koby-online.de>"]
-edition = "2026"
+edition = "2021"
 build= "build.rs"
 description = "KobyDesk Remote Desktop"
 default-run = "KobyDesk"
